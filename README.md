@@ -6,21 +6,23 @@
 ### Hi, I'm Alex!👋
 
 <div id="header" align="left">
-  <img src="https://media.tenor.com/VKyxobjooXIAAAAC/ryan-gosling-awkward.gif" width="300"/>
+  <img src="https://media.tenor.com/VKyxobjooXIAAAAC/ryan-gosling-awkward.gif" width="250"/>
 </div>
 
 
 ## My stack
 <a href="_blank" target="_blank"> <img alt="go" src="https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white"></a>
 <a href="_blank" target="_blank"> <img alt="GraphQL" src="https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white"></a>
+
 <a href="_blank" target="_blank"> <img alt="python" src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"></a>
 <a href="_blank" target="_blank"> <img alt="c++" src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white"></a>
 
 <a href="#" target="_blank"> <img alt="git" src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white"> <img alt="MySQL" src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white"></a>
-<a href="#" target="_blank"> <img alt="docker" src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white"></a>
 
 <a href="#" target="_blank"> <img alt="Gitlab CI" src="https://img.shields.io/badge/gitlab%20ci-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white"></a>
 <a href="#" target="_blank"> <img alt="Github Actions" src="https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white"></a>
+
+<a href="#" target="_blank"> <img alt="docker" src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white"></a>
 
 ![My_top langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bloodNtears&theme=apprentice&layout=compact)
 
