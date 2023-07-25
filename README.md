@@ -18,8 +18,11 @@
 
 <a href="#" target="_blank"> <img alt="git" src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white"> <img alt="MySQL" src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white"></a>
 <a href="#" target="_blank"> <img alt="docker" src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white"></a>
+
 <a href="#" target="_blank"> <img alt="Gitlab CI" src="https://img.shields.io/badge/gitlab%20ci-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white"></a>
 <a href="#" target="_blank"> <img alt="Github Actions" src="https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white"></a>
+
+![My_top langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bloodNtears&theme=apprentice&layout=compact)
 
 ##  Contact me
 <a href="https://t.me/timofeevGoDev" target="_blank"> <img alt="Telegram" src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"></a>
