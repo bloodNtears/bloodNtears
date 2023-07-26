@@ -31,9 +31,9 @@
 ##  Contact me
 <a href="https://t.me/timofeevGoDev" target="_blank"> <img alt="Telegram" src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"></a>
 <a href="mailto:sanya_steam@outlook.com" target="_blank"> <img alt="Outlook" src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white">
-
+<!---
 ##  More about me
 1. Bench press PR: 100 kg
 2. Two ecological expeditions to Mount Elbrus
 3. Has been above the Arctic Circle
-
+-->
