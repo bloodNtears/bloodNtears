@@ -34,6 +34,6 @@
 
 ##  More about me
 1. Bench press PR: 100 kg
-2. Two ecological missions to Mount Elbrus
+2. Two ecological expeditions to Mount Elbrus
 3. Has been above the Arctic Circle
 
